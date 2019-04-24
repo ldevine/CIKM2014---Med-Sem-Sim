@@ -13,9 +13,8 @@ More information on the evaluation setup can be found in the previous paper Koop
 .[An evaluation of corpus-driven measures of medical concept similarity for information retrieval.](https://dl.acm.org/citation.cfm?id=2398661)
 
 	B. Koopman, G. Zuccon, P. Bruza, L. Sitbon, and M. Lawley. An evaluation of corpus-driven measures of
-	medical concept similarity for information retrieval. In Proceedings of the 21st ACM international conference
-	on Information and knowledge management, pages 2439{2442. ACM, 2012.
-
+	medical concept similarity for information retrieval. In Proceedings of the 21st ACM international
+	conference on Information and knowledge management, pages 2439{2442. ACM, 2012.
 
 
 
