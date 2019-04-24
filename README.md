@@ -10,7 +10,7 @@ This repository contains resources relating to the 2014 CIKM paper:
 
 More information on the evaluation setup can be found in the previous paper Koopman et al. 2012:
 
-.[An evaluation of corpus-driven measures of medical concept similarity for information retrieval.](https://dl.acm.org/citation.cfm?id=2398661)
+ [An evaluation of corpus-driven measures of medical concept similarity for information retrieval](https://dl.acm.org/citation.cfm?id=2398661)
 
 	B. Koopman, G. Zuccon, P. Bruza, L. Sitbon, and M. Lawley. An evaluation of corpus-driven measures of
 	medical concept similarity for information retrieval. In Proceedings of the 21st ACM international
